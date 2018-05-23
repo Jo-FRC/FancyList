@@ -49,7 +49,6 @@ removeItem(item); (if there are duplicates, should remove 1st item found)
 removeItems(item1, ...); (accepts 1 item too)
 removeItems([item1, item2, ... itemN]);
 
-<that's it for now, once this is done, we'll add further complexities to FancyList>
 
 
 
